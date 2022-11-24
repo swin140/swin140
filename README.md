@@ -10,7 +10,8 @@ I’m Su
 
 ## Currently Learning  🌱
 - CS-GY 6543 Human Computer Interaction
-- CS-GY 6513 Big Data
+- CS-GY 6513 Big Data 
+- Knitting 🧶
 
 
 
