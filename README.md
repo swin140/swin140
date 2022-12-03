@@ -2,15 +2,14 @@
 
 I’m Su 
 
-- From Burma 🇲🇲
-- Currently, in New York 🗽
+- From 🇲🇲 Burma  ➡️ New York 🗽
 - MS CS Student at NYU Tandon
-- Hobbies: Travelling, Swimming
+- Hobbies: Travelling, Swimming, Photography
 - Funfact: I don't have last name
 
 ## Currently Learning  🌱
 - CS-GY 6543 Human Computer Interaction
-- CS-GY 6513 Big Data 
+- CS-GY 6513 Big Data
 - Knitting 🧶
 
 
